@@ -1,3 +1,3 @@
 public interface Printable{
-  string printDetails();
+  // string printDetails();
 }
